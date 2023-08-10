@@ -1,0 +1,30 @@
+body {
+margin:0;
+padding:0;
+background-color: black;
+color:white;
+display:flex;
+flex-direction: column;
+width:100%;
+align-items: center;
+}
+
+.item {
+  margin:10px;
+  border: 1px solid white;
+  width:200px;
+  height: auto;
+  padding:10px;
+}
+
+button {
+  cursor: pointer;
+}
+
+input {
+  margin: 5px;
+}
+
+.search {
+  width:356px;
+}
